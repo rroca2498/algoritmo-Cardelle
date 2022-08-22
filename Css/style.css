@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Titulo{
+    width: 230px;
+    background-color: aqua;
+    margin: 50px;
+}
+
+.Parrafo{
+
+    width: 230px;
+    background-color: rgb(10, 238, 10);
+    margin: 50px;
+}
